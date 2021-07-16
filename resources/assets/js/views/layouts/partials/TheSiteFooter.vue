@@ -5,11 +5,11 @@
     {{ $t('general.powered_by') }}
 
     <a
-      href="http://bytefury.com/"
+      href="https://techy7.com/"
       target="_blank"
       class="pl-1 font-normal text-gray-900"
     >
-      {{ $t('general.bytefury') }}
+      {{ $t('general.techy7') }}
     </a>
   </footer>
 </template>

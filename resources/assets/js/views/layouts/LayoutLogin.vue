@@ -7,16 +7,16 @@
       <div class="w-full">
         <a href="/admin">
           <img
-            src="/assets/img/crater-logo.png"
-            class="block w-48 h-auto max-w-full mb-32 text-primary-400"
-            alt="Crater Logo"
+            src="/assets/img/techy7-logo.png"
+            class="block w-48 h-auto max-w-full mb-16 text-black"
+            alt="Techy7 Logo"
           />
         </a>
         <router-view></router-view>
         <div
           class="pt-24 mt-0 text-sm not-italic font-medium leading-relaxed text-left text-gray-500 md:pt-40"
         >
-          <p class="mb-3">{{ $t('layout_login.copyright_crater') }}</p>
+          <p class="mb-3">{{ $t('layout_login.copyright_techy7') }}</p>
         </div>
       </div>
     </div>
@@ -28,14 +28,12 @@
         <h1
           class="hidden mb-3 text-3xl font-bold leading-normal text-white xl:text-5xl xl:leading-tight md:none lg:block"
         >
-          {{ $t('layout_login.super_simple_invoicing') }} <br />
-          {{ $t('layout_login.for_freelancer') }} <br />
-          {{ $t('layout_login.small_businesses') }} <br />
+          {{ $t('layout_login.techy7_invoicing_platform') }} <br />
         </h1>
         <p
           class="hidden text-sm not-italic font-normal leading-normal text-gray-100 xl:text-base xl:leading-6 md:none lg:block"
         >
-          {{ $t('layout_login.crater_help') }}<br />
+          {{ $t('layout_login.techy7_help') }}<br />
           {{ $t('layout_login.invoices_and_estimates') }}<br />
         </p>
       </div>
