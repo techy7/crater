@@ -12,6 +12,9 @@ export default {
       button:
         'inline-flex items-center justify-center text-black transition px-2 duration-150 ease-in-out border border-gray-300 border-solid focus:outline-none bg-white',
     },
+    primaryOutline: {
+      button: 'inline-flex justify-center items-center focus:outline-none font-normal transition ease-in-out duration-150 border border-transparent border border-solid border-primary-500 text-primary-500 hover:text-white hover:bg-primary-200 shadow-inner whitespace-nowrap'
+    },
   },
   sizes: {
     discount: {

@@ -64,7 +64,7 @@
       <user-add-icon class="text-primary-400" />
 
       <label
-        class="m-0 ml-3 text-sm leading-none cursor-pointer font-base text-primary-400"
+        class="m-0 ml-3 text-sm leading-none cursor-pointer font-base text-white"
         >{{ $t('customers.add_new_customer') }}</label
       >
     </button>

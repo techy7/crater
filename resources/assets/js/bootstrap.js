@@ -44,7 +44,7 @@ Vue.use(swal, {
       'w-full inline-flex py-2 px-4 text-sm leading-5 rounded items-center justify-center text-white font-normal transition duration-150 ease-in-out border border-transparent focus:outline-none bg-primary-500 hover:bg-opacity-75 whitespace-nowrap',
     denyButton: '',
     cancelButton:
-      'w-full inline-flex py-2 px-4 text-sm leading-5 rounded justify-center items-center focus:outline-none font-normal transition ease-in-out duration-150 border border-transparent border border-solid border-primary-500 text-primary-500 hover:bg-primary-200 shadow-inner whitespace-nowrap',
+      'w-full inline-flex py-2 px-4 text-sm leading-5 rounded justify-center items-center focus:outline-none font-normal transition ease-in-out duration-150 border border-transparent border border-solid border-primary-500 text-primary-500 hover:text-white hover:bg-primary-200 shadow-inner whitespace-nowrap',
     loader: '',
     footer: '',
   },
